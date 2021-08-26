@@ -29,6 +29,7 @@
     "bcrypt": "^5.0.0",
     "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
+    "neo4j-driver": "^4.3.3",
     "nest-neo4j": "^0.1.4",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
